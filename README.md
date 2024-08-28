@@ -31,5 +31,5 @@
 ### Langkah Instalasi
 1. Clone repository:
    ```bash
-   git clone https://github.com/username_anda/nama-repo-anda.git
-   cd nama-repo-anda
+   git clone https://github.com/Ichlasul07/PT_alita.git
+   cd PT_alita
